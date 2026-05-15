@@ -21,8 +21,8 @@ A premium, state-of-the-art catering services website built with React, TanStack
 ### Vercel
 1. Connect your GitHub repository to Vercel.
 2. Ensure the **Root Directory** is set to the project root.
-3. Set the **Output Directory** to `dist/client`.
-4. Vercel will automatically build and deploy the project.
+3. Set the **Output Directory** to `Default` (Vercel will auto-detect the framework output).
+4. Vercel will automatically build and deploy the project as a full-stack SSR application.
 
 ---
 *Powered by AlphaX Solution 2026*

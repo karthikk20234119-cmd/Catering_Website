@@ -5,6 +5,7 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { getRouter } from './router'
 import './styles.css'
 
+console.log('App starting...');
 // Initialize the router
 const router = getRouter()
 
